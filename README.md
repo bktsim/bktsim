@@ -9,7 +9,7 @@ In my free time, I like to play guitar, look at keyboards I can't afford, learn 
 
 For academic, career opportunities or other enquiries, please reach out through my [email](mailto:contact@brendontsim.com).
 <table>
-  <td align="center">
+  <td align="left">
     I am currently looking for a part time/volunteer position in which I can use Japanese, especially if it is related to VTubers.
     <br/>
     Please reach out via email if you have any openings that I might be a fit for!
