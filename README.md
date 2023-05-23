@@ -7,8 +7,16 @@ Hey there! I'm Brendon, a computer science student studying at the University of
 
 In my free time, I like to play guitar, look at keyboards I can't afford, learn Japanese (watch VTubers!) and play video games (all kinds - but especially FPS and Rhythm games!). I like to apply knowledge I've learned in classes to my interests, so I ocassionally do game development and work on mini projects/tooling on the side.  
 
-For academic, career opportunities or other enquiries, please reach out through my email (at my website).
-
-I am interested in using my Japanese in a part time job, especially if it is related to VTubers. If you have a job that I might qualify for, please reach out!
-
-特にVTuberと関わりがあり、日本語力が活かせる仕事をアルバイトかボランティアの形でやってみたいです。もしよかったら、私の個人サイトのメールまでご連絡くださいますようお願い申し上げます。
+For academic, career opportunities or other enquiries, please reach out through my [email](mailto:contact@brendontsim.com).
+<table>
+  <td align="center">
+    I am currently looking for a part time/volunteer position in which I can use Japanese, especially if it is related to VTubers.
+    <br/>
+    Please reach out via email if you have any openings that I might be a fit for!
+    <br/>
+    <br/>
+    特にVTuberと関わりがあり、日本語力が活かせる仕事をアルバイトかボランティアの形でやってみたいです。
+    <br/>
+    もしよかったら、上記メールまでご連絡くださいますようお願い申し上げます。
+  </td>
+</table>
