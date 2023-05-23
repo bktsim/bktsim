@@ -1,14 +1,14 @@
-**(´• ω •`)ﾉ** 
+## Hello! (´• ω •`)ﾉ  
+Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing and programming languages.
 
-Hi! I’m Brendon, a computer science student at the University of British Columbia. My interests in computing lie in programming languages, distributed computing and machine learning. 
+* In my academic terms at UBC, I work as an UTA for computer science courses. I was previously a TA for CPSC 213 & CPSC 121, both of which are courses covering low-level concepts such as computer systems, digital circuits, discrete mathematics & proofs. 
+* Most recently with Alida on the Surveys team, I created new interactive and web-accessible question types as a part of the Q2 update with React, TypeScript and unit tests with Jest for customers to use in their Surveys. Notably, I also planned, led and setup the architecture for migrating the frontend to a new backend API contract whilst ensuring backwards compatability. 
+* With Kai Shing Management Services Limited, I worked on eliminating manual workflows for building operations & improving tenant experience by creating dashboards, improving various services & data pipelines with Java, Python, Spring Boot & SQL.
 
-I am currently a teaching assistant for CPSC 213, UBC’s introduction to computer systems. I am also a full stack developer with experience in various technological stacks in my previous internships. 
+In my free time, I like to play guitar, look at keyboards I can't afford, learn Japanese (watch VTubers!) and play video games (all kinds - but especially FPS and Rhythm games!). I like to apply knowledge I've learned in classes to my interests, so I ocassionally do game development and work on mini projects/tooling on the side.  
 
-* Most recently at Alida on the surveys team, I created interactive, accessible and WCAG compliant components with React in TypeScript with its accompanying unit tests to modernise the Surveys’ application. I also helped set up architecture to migrate the frontend service to a new backend API contract and debugged various bugs throughout the application in C# and JavaScript.
-* In the past with Kai Shing Management Services Limited, I worked on improving workflows for building operations by creating dashboards, backend services & improving data pipelines for API endpoints with Java, Python & C#. 
-* I was also previously a teaching assistant for CPSC 121, UBC’s introduction to discrete mathematics, circuits and proofs.
+For academic, career opportunities or other enquiries, please reach out through my email (at my website).
 
-In my free time, I like to play the guitar, look at keyboards I can’t afford and learn Japanese. I also like to apply knowledge I learned to my interests, such as game development & working on live-streaming related technologies.
+I am interested in using my Japanese in a part time job, especially if it is related to VTubers. If you have a job that I might qualify for, please reach out!
 
-Currently looking for Fall 2023 co-op opportunities. For academic, career opportunities or other enquires, please reach out through my email, which you can locate at my website (brendontsim.com).
-
+特にVTuberと関わりがあり、日本語力が活かせる仕事をアルバイトかボランティアの形でやってみたいです。もしよかったら、私の個人サイトのメールまでご連絡くださいますようお願い申し上げます。
