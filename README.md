@@ -15,7 +15,7 @@ For academic, career opportunities or other enquiries, please reach out through 
     Please reach out via email if you have any openings that I might be a fit for!
     <br/>
     <br/>
-    特にVTuberと関わりがあり、日本語力が活かせる仕事をアルバイトかボランティアの形でやってみたいです。
+    特にVTuberと関わりがあり、アルバイトかボランティアの形で日本語が活かせる仕事を募集しております。
     <br/>
     もしよかったら、上記メールまでご連絡くださいますようお願い申し上げます。
   </td>
