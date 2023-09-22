@@ -1,7 +1,7 @@
 # Hello! (´• ω •`)ﾉ 
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
-My interest stems from my passion which relates to live streaming, something that I enjoy in my free time - where problems like latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
+My interest stems from my passion in live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
 
 I am a full-stack engineer with internship experiences in various fields:
 
