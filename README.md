@@ -1,7 +1,7 @@
 ## Hello! (´• ω •`)ﾉ 
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
-My interest stems from my passion which relates to live streaming, something that I enjoy in my free time - where like related to latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
+My interest stems from my passion which relates to live streaming, something that I enjoy in my free time - where problems like latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
 
 * Currently at Arista Networks, I'm working on network switches on the platform team using C++ and Python.
 * Previously at Alida, I worked on creating interactive and web-accessible components with React, TypeScript and Jest; I also worked to plan and create the architecture for migrating the frontend application to a new backend API contract, as well as supporting other backend-related features using C# and JavaScript.
