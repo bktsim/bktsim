@@ -4,7 +4,7 @@ Hey there! I'm Brendon, a computer science student studying at the University of
 
 My interest stems from my passion for live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video encoding, learned rate-distortion optimization, and robustly distributing content all occur.
 
-I am a full-stack developer with experience in various fields of software:
+I am a full-stack developer with work experience in various fields of software:
 
 * Currently at Arista Networks, I work on network switches on the platform team with a focus on using C++ and Python to develop and support Arista switches on [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source networking operating system (NOS).
 * Previously at Alida, I worked on creating interactive and web-accessible components with React, TypeScript and Jest; I also worked to plan and create the architecture for migrating the frontend application to a new backend API contract, as well as supporting other backend-related features using C# and JavaScript.
@@ -19,11 +19,11 @@ Thanks for reading my blurb! For academic/career opportunities or projects - or 
 
 --------
 <div align="center">
-  <a href="https://brendontsim.com/"><b>Website</b></a>
+  <a target="_blank" href="https://brendontsim.com/"><b>Website</b></a>
   ・
-  <a href="https://brendontsim.com/files/resume.pdf"><b>Resume</b></a>
+  <a target="_blank" href="https://brendontsim.com/files/resume.pdf"><b>Resume</b></a>
   ・
-  <a href="https://www.linkedin.com/in/brendontsim/"><b>LinkedIn</b></a>
+  <a target="_blank" href="https://www.linkedin.com/in/brendontsim/"><b>LinkedIn</b></a>
   ・
-  <a href="https://www.wantedly.com/id/brendontsim"><b>Wantedly (日本語)</b></a>  
+  <a target="_blank" href="https://www.wantedly.com/id/brendontsim"><b>Wantedly (日本語)</b></a>  
 </div>
