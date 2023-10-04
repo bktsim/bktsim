@@ -1,4 +1,5 @@
-<h1> Hello! (´• ω •`)ﾉ  </h1>
+<h1> Hello! (´• ω •`)ﾉ </h1>
+
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
 My interest stems from my passion for live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video encoding, learned rate-distortion optimization, and robustly distributing content all occur.
