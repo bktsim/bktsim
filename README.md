@@ -1,9 +1,9 @@
 # Hello! (´• ω •`)ﾉ 
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
-My interest stems from my passion for live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
+My interest stems from my passion for live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video encoding, learned rate-distortion optimization, and robustly distributing content all occur.
 
-I am a full-stack engineer with internship experiences in various fields:
+I am a full-stack developer with experience in various fields of software:
 
 * Currently at Arista Networks, I'm working on network switches on the platform team, with a focus on using C++ and Python to develop and support Arista switches on [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source networking operating system (NOS).
 * Previously at Alida, I worked on creating interactive and web-accessible components with React, TypeScript and Jest; I also worked to plan and create the architecture for migrating the frontend application to a new backend API contract, as well as supporting other backend-related features using C# and JavaScript.
