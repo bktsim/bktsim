@@ -1,4 +1,4 @@
-<h1> Hello! (´• ω •`)ﾉ </h1>
+<h1 color="white"> Hello! (´• ω •`)ﾉ </h1>
 
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
