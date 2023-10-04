@@ -1,4 +1,4 @@
-# Hello! (´• ω •`)ﾉ 
+<h1> Hello! (´• ω •`)ﾉ  </h1>
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
 My interest stems from my passion for live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video encoding, learned rate-distortion optimization, and robustly distributing content all occur.
@@ -17,4 +17,12 @@ I'm currently looking for cool projects that are related to my interests and int
 For academic, career opportunities or other enquiries, please don't hesitate to reach out by [**email**](mailto:contact@brendontsim.com).
 
 --------
-[**Website**](https://brendontsim.com/)・[**Resume**](https://brendontsim.com/files/resume.pdf)・[**LinkedIn**](https://www.linkedin.com/in/brendontsim/)・[**Wantedly (日本語)**](https://www.wantedly.com/id/brendontsim)
+<div align="center">
+  <a href="https://brendontsim.com/"><b>Website</b></a>
+  ・
+  <a href="https://brendontsim.com/files/resume.pdf"><b>Resume</b></a>
+  ・
+  <a href="https://www.linkedin.com/in/brendontsim/"><b>LinkedIn</b></a>
+  ・
+  <a href="https://www.wantedly.com/id/brendontsim"><b>Wantedly (日本語)</b></a>  
+</div>
