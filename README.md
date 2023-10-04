@@ -1,7 +1,7 @@
 # Hello! (´• ω •`)ﾉ 
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer graphics and programming languages. 
 
-My interest stems from my passion in live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
+My interest stems from my passion for live streaming, something that I love to watch in my free time - where problems like latency, sync, networking, video-encoding, learned rate-distortion optimization, and robustly distributing content all occur.
 
 I am a full-stack engineer with internship experiences in various fields:
 
@@ -12,7 +12,7 @@ I am a full-stack engineer with internship experiences in various fields:
 
 In my free time, I like to play the guitar, look at keyboards I can't afford, learn Japanese (i.e. watch VTubers) and play video games - especially FPS and Rhythm games (maimai!!). I also like to apply the knowledge I've learned in classes to my interests, so I occasionally do game development and work on mini projects/tooling on the side.  
 
-I'm currently looking for cool projects that are related to my interests, as well as full-time (starting S24/F24) and internship (starting W24/S24) roles.
+I'm currently looking for cool projects that are related to my interests and internship (starting W24/S24) roles.
 
 For academic, career opportunities or other enquiries, please don't hesitate to reach out by [**email**](mailto:contact@brendontsim.com).
 
