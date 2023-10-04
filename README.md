@@ -15,7 +15,7 @@ In my free time, I like to play the guitar, look at keyboards I can't afford, le
 
 I'm currently looking for cool projects that are related to my interests and internship (starting W24/S24) roles.
 
-For academic, career opportunities or other enquiries, please don't hesitate to reach out by [**email**](mailto:contact@brendontsim.com).
+Thanks for reading my blurb! For academic/career opportunities or projects, please reach out by my [**email**](mailto:contact@brendontsim.com) - I'd love to chat!
 
 --------
 <div align="center">
