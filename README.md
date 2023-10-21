@@ -4,11 +4,13 @@ Hey there! I'm Brendon, a computer science student studying at the University of
 
 My interest stems from my passion for live streaming, something that I love. Problems related to networking (latency, sync), video encoding, and distributed computing problems all occur in this space, which is why I chose to focus on those fields and those adjacent to them. I hope to improve the live streaming space for both the streamers and the viewers - especially for VTubers!
 
-I also hold a deep interest in the following topics (I'm greedy), all of which are adjacent but still powerful and/or helpful to me:
+I also hold a deep interest in the following topics:
 * Operating Systems
 * NLP (especially speech and information retrieval-related applications - I wrote a [summary on ASR correction](https://docs.google.com/presentation/d/1iPgyrDBmj3awBQ9RytPWcZsDSxXprcXKRqxp7omErec/edit?usp=sharing) and a [summary on a TREC paper](https://docs.google.com/presentation/d/1jR_41FI9ZrhCdlEDEIohjRUwaW2J_JcsCoGeQn1oD7s/edit?usp=sharing) for IR on my exchange and found both of them to be super cool!)
 * Computer Vision, and
 * Computer Graphics.
+
+I know I'm greedy, but I can't help it. They're all super cool, powerful and useful topics.
 
 I am a full-stack developer with work experience in various fields of software across different industries:
 
