@@ -10,8 +10,6 @@ I also hold a deep interest in the following topics:
 * Computer Vision, and
 * Computer Graphics.
 
-I know I'm greedy, but I can't help it. They're all super cool, powerful and useful topics.
-
 I am a full-stack developer with work experience in various fields of software across different industries:
 
 * Currently at Arista Networks, I work on network switches on the platform team with a focus on using C++ and Python to develop and support Arista switches on [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source network operating system (NOS).
