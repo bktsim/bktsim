@@ -2,7 +2,7 @@
 
 Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, computer networking, multimedia content distribution (primarily distribution, but also image/video processing, compression, and evaluation) and machine learning. 
 
-My interest stems from my passion for live streaming, something that I love. Problems related to networking (latency, sync), video encoding, and distributed computing problems all occur in this space, which is why I chose to focus on those fields and those adjacent to them. I'm interested in helping everyone become more connected in this world that is growing to be increasingly remote through improving real-time systems. Especially with live streaming - I hope to improve the live streaming space for both the streamers and the viewers!
+My interest stems from my passion for live streaming, something that I love. Problems related to networking (latency, sync) & distributed system (content distribution) problems all occur in this space, which is why I chose to focus on those fields and those adjacent to them. I'm interested in helping everyone become more connected in this world that is growing to be increasingly remote through improving real-time systems. Especially with live streaming - I hope to improve the live streaming space for both the streamers and the viewers!
 
 I also hold a deep interest in the following topics:
 * Operating Systems
