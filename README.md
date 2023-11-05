@@ -19,7 +19,7 @@ I am a full-stack developer with work experience in various fields of software a
 
 In my free time, I like to play the guitar, look at keyboards I can't afford, learn Japanese (i.e. watch VTubers: the main reason why I'm learning computer vision & computer graphics) and play video games - especially FPS and Rhythm games (maimai!). I also like to apply the knowledge I've learned in classes to my interests, so I occasionally do game development and work on mini projects/tooling on the side.  
 
-I'm currently looking for cool projects that are related to my interests and full-time (S24) roles. Any role that requires the use of more than one language would be a nice plus! (I can speak English, Cantonese, Mandarin and Japanese!)
+I'm currently looking for cool projects that are related to my interests, internship and full-time roles. Any role that requires the use of more than one language would be a nice plus! (I can speak English, Cantonese, Mandarin and Japanese!)
 
 Thanks for reading my long blurb! For academic/career opportunities or projects - or if you want to talk rhythm games/VTubers, please reach out through my [**email**](mailto:contact@brendontsim.com) - I'd love to chat!
 
