@@ -13,7 +13,7 @@ I also hold a deep interest in the following topics:
 I am a full-stack developer with work experience in various fields of software across different industries:
 
 * Currently at Arista Networks, I work on network switches on the platform team with a focus on using C++ and Python to develop and support Arista switches on [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source network operating system (NOS).
-* Previously at Alida, I worked on creating interactive and web-accessible components with React, TypeScript and Jest; I also worked to plan and create the architecture for migrating the frontend application to a new backend API contract, as well as supporting other backend-related features using C# and JavaScript.
+* Previously at Alida, I worked on creating interactive and web-accessible components with React, TypeScript and Jest with a mobile-first focus; I also worked to plan and create the architecture for migrating the frontend application to a new backend API contract, as well as supporting other backend-related features using C# and JavaScript.
 * At Kai Shing Management Services Limited, I worked on eliminating manual workflows for building operations and improving tenant experience by creating dashboards, mini-features and data pipelines to expose more usable data for business analytics & logistics operations with Java, Python, Spring Boot & SQL.
 * In my academic terms at UBC, I worked as a UTA for computer science courses. Aligning with my interests in computer systems, I was previously a TA for CPSC 213 & CPSC 121, both of which are courses covering low-level concepts such as computer systems, digital circuits, discrete mathematics & proofs. 
 
