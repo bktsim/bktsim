@@ -29,7 +29,5 @@ Thanks for reading my long blurb! For academic/career opportunities or projects 
   ・
   <a target="_blank" href="https://brendontsim.com/files/resume.pdf"><b>Resume</b></a>
   ・
-  <a target="_blank" href="https://www.linkedin.com/in/brendontsim/"><b>LinkedIn</b></a>
-  ・
-  <a target="_blank" href="https://www.wantedly.com/id/brendontsim"><b>Wantedly (日本語)</b></a>  
+  <a target="_blank" href="https://www.linkedin.com/in/brendontsim/"><b>LinkedIn (English・日本語)</b></a>
 </div>
