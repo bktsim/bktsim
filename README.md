@@ -17,7 +17,7 @@ I am a full-stack developer with work experience in various fields of software a
 * At Kai Shing, I eliminated manual workflows for building operations and improving tenant experience by creating dashboards, adding features and data pipelines to expose more usable data for business analytics & logistics with Java, Python, Spring Boot & SQL.
 * In school at UBC, I work as a UTA for computer science courses. I'm TAing CPSC 313 for 2023W2, and was previously a TA for CPSC 213 & CPSC 121, both of which are courses covering low-level concepts such as computer systems, digital circuits, discrete mathematics & proofs. 
 
-In my free time, I like to play the guitar, look at keyboards I can't afford, learn Japanese (i.e. watch VTubers) and play video games - especially FPS and Rhythm games (maimai). I also like to apply the knowledge I've learned in classes to my interests, so I occasionally do game development and work on mini-projects and convenient tooling on the side.  
+In my free time, I like playing the guitar, looking at keyboards I can't afford, learning Japanese (i.e., watching VTubers) and playing video games - especially FPS and Rhythm games (maimai). I also like to apply the knowledge I've learned in classes to my interests, so I occasionally do game development and work on mini-projects and convenient tooling on the side.  
 
 I'm on the lookout for cool projects that are related to my interests and full-time roles. I can speak English, Cantonese, Mandarin and Japanese, so any role that requires the use of more than one language would be a cool plus.
 
