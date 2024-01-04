@@ -23,7 +23,7 @@ I'm on the lookout for cool projects that are related to my interests and full-t
 
 Thanks for reading my long blurb! For academic/career opportunities or projects - or if you want to talk rhythm games/VTubers, please reach out through my [**email**](mailto:contact@brendontsim.com) - I'd love to chat!
 
-日本語での履歴書と職歴経歴書もありますので、[**メール**](mailto:contact@brendontsim.com)でお気軽にご連絡いただければ幸いです。
+日本語での履歴書と職歴経歴書もありますので、[**メール**](mailto:japan@brendontsim.com)でお気軽にご連絡いただければ幸いです。
 
 --------
 <div align="center">
