@@ -1,6 +1,6 @@
 <h1 color="white"> Hello! (´• ω •`)ﾉ </h1>
 
-Hey there! I'm Brendon, a computer science student studying at the University of British Columbia focusing on distributed systems, computer networking, multimedia content distribution (primarily distribution, but also image/video processing, compression, and evaluation) and machine learning. 
+Hey there! I'm Brendon, a computer science student studying at the University of British Columbia with a focus on distributed systems, parallel computing, computer networking, multimedia content distribution (primarily distribution, but also image/video processing, compression, and evaluation) and machine learning. 
 
 My interest stems from my passion for live streaming - something that I watch every day. Problems related to networking (latency, sync) & distributed systems (content distribution) problems all occur in this space.
 
@@ -19,11 +19,11 @@ I am a full stack developer with work experience in various fields of software a
 
 In my free time, I like playing the guitar, looking at keyboards I can't afford, learning Japanese (i.e., watching VTubers) and playing video games - especially FPS and Rhythm games (maimai). I also like to apply the knowledge I've learned in classes to my interests, so I occasionally do game development and work on mini-projects and convenient tooling.  
 
-I'm on the lookout for cool projects that are related to my interests and full-time roles. I can speak English, Cantonese, Mandarin and Japanese, so any role that requires more than one language would be a cool plus!
+I'm on the lookout for cool projects that are related to my interests and full-time roles in Canada, USA, Australia, Japan and Hong Kong. I can speak English, Cantonese, Mandarin and Japanese, so any role that would make use of more than one language would be a cool plus!
 
-Thanks for reading my long blurb! For academic/career opportunities or projects - or if you want to talk rhythm games/VTubers, please reach out through my [**email**](mailto:contact@brendontsim.com) - I'd love to chat!
+Thanks for reading my long blurb! For academic/career opportunities or projects (or if you want to talk rhythm games/VTubers), please reach out through my [**email**](mailto:contact@brendontsim.com) - I'd love to chat!
 
-日本語での履歴書と職歴経歴書もありますので、[**メール**](mailto:japan@brendontsim.com)でお気軽にご連絡いただければ幸いです。
+日本語での履歴書と職歴経歴書もありますので、学術や仕事等に関するお問い合わせは[**メール**](mailto:japan@brendontsim.com)にてお気軽にご連絡ください。
 
 --------
 <div align="center">
