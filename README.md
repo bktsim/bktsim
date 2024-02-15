@@ -6,11 +6,11 @@ My interest stems from my passion for live streaming - something that I watch ev
 
 I am also interested in the following topics:
 * Operating Systems
-* NLP (esp. speech and information retrieval-related applications - I wrote a [**summary on ASR correction**](https://docs.google.com/presentation/d/1iPgyrDBmj3awBQ9RytPWcZsDSxXprcXKRqxp7omErec/edit?usp=sharing) and a [**summary on a TREC paper**](https://docs.google.com/presentation/d/1jR_41FI9ZrhCdlEDEIohjRUwaW2J_JcsCoGeQn1oD7s/edit?usp=sharing) for IR on my exchange @ Waseda)
+* NLP (esp. speech and information retrieval-related applications)
 * Computer Vision, and
 * Computer Graphics.
 
-I am a full stack developer with work experience in various fields of software across different industries:
+I am a full-stack developer with work experience in various fields of software across different industries:
 
 * At Arista Networks, I worked on adding support for multi-asic devices, new tests & test infrastructure based on customer escalations, and prototypes of new features for [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source network operating system (NOS) with C++ and Python.
 * Previously at Alida, I created interactive and WCAG-compliant web-accessible components with React, TypeScript and Jest; Owned the architecture for migrating the frontend to a new backend API, and worked on product features using C# and JavaScript.
