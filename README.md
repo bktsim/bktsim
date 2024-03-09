@@ -12,7 +12,7 @@ I am a full-stack developer with work experience in various fields of software a
 * At Arista Networks, I worked on adding support for multi-asic devices, new tests & test infrastructure based on prior customer escalations, and prototypes of new features for [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source network operating system (NOS) with C++ and Python.
 * At Alida, I created interactive and WCAG-compliant web-accessible components with React, TypeScript and Jest; Owned the architecture for migrating the frontend to a new backend API, and worked on product features using C# and JavaScript.
 * At Kai Shing, I eliminated manual workflows for building operations and improving tenant experience by creating dashboards, adding features and data pipelines to expose more data for business analytics & logistics with Java, Python, Spring Boot & SQL.
-* At UBC, I work as a teaching assistant for computer science courses covering low-level concepts. I'm currently TAing CPSC 313 for 2023W2, and was previously a TA for CPSC 213 & CPSC 121, covering computer systems, digital circuits, discrete mathematics & proofs. 
+* At UBC, I work as a teaching assistant for computer science courses covering low-level concepts. I'm currently TAing CPSC 313 presently, and was previously a TA for CPSC 213 & CPSC 121, covering computer systems, digital circuits, discrete mathematics & proofs. 
 
 In my free time, I like playing the guitar, looking at keyboards I can't afford, learning Japanese (i.e. watching VTubers) and playing video games - especially FPS and Rhythm games (maimai). I also like to apply the knowledge I've learned in classes to my interests through game development making tooling that increases my quality of life.
 
