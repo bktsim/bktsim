@@ -28,7 +28,7 @@ Thanks for reading my long blurb! For academic/career opportunities, projects, o
   ・
   <a target="_blank" href="mailto:contact@brendontsim.com"><b>Email</b></a>
   ・
-  <a target="_blank" href="https://brendontsim.com/files/resume.pdf"><b>Resume</b></a>
+  <a target="_blank" href="https://brendontsim.com/resume.pdf"><b>Resume</b></a>
   ・
   <a target="_blank" href="https://www.linkedin.com/in/brendontsim/"><b>LinkedIn</b></a>
 </div>
