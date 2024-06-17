@@ -13,7 +13,7 @@ I'm on the lookout for cool projects that are related to my interests and full-t
 
 Thanks for reading my long blurb! For academic/career opportunities, projects, or if you'd just like to chat - contact me by [**email**](mailto:contact@brendontsim.com).
 
-日本語の履歴書と開発・職歴経歴書もご提示いただけます。学術や仕事等に関するお問い合わせは[**メール**](mailto:japan@brendontsim.com)にてお気軽にご連絡ください。
+日本語の履歴書と開発・職歴経歴書もご提示いただけます。学術や仕事等のお問い合わせ[**メール**](mailto:japan@brendontsim.com)にてお気軽にご連絡ください。
 
 --------
 <div align="center">
