@@ -5,7 +5,7 @@ Hey there! I'm Brendon, a computer science graduate from the University of Briti
 I'm a full-stack developer with work experience in various fields of software across different industries (1.3yrs internships), having experience in full-stack, frontend, backend, IoT, embedded, game-dev and more. 
 * Arista Networks: Added support for multi-asic devices, new tests & test infrastructure based on prior customer escalations, and prototypes of new features for [SONiC]([url](https://github.com/sonic-net/SONiC)), an open-source network operating system (NOS) with C++ and Python.
 * Alida: Created interactive and WCAG-compliant web-accessible components with React, TypeScript and Jest; Owned the architecture for migrating the frontend to a new backend API, and worked on product features using C# and JavaScript.
-* Kai Shing: Eliminated manual workflows for building operations and improving tenant experience by creating dashboards, adding features and data pipelines to expose more data for business analytics & logistics with Java, Python, Spring Boot & SQL.
+* Kai Shing: Eliminated manual workflows for building operations & improved tenant experience by creating dashboards, adding features and data pipelines to expose more data for business analytics & logistics with Java, Python, Spring Boot & SQL.
 
 In my free time, I like playing the guitar, looking at keyboards I can't afford, learning Japanese (i.e. watching VTubers) and playing video games - especially FPS and Rhythm games (maimai). I also like to apply the knowledge I've learned in classes to my interests through game development making tooling that increases my quality of life.
 
