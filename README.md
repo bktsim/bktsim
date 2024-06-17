@@ -11,7 +11,7 @@ In my free time, I like playing the guitar, looking at keyboards I can't afford,
 
 I'm on the lookout for cool projects that are related to my interests and full-time roles in Canada, USA, Australia, Japan and Hong Kong. I can speak English, Cantonese, Mandarin and Japanese, so any role using more than one language would be a cool plus!
 
-Thanks for reading my long blurb! For academic/career opportunities, projects, or if you'd just like to chat - please contact me by [**email**](mailto:contact@brendontsim.com).
+Thanks for reading my long blurb! For academic/career opportunities, projects, or if you'd just like to chat - contact me by [**email**](mailto:contact@brendontsim.com).
 
 日本語の履歴書と開発・職歴経歴書もご提示いただけます。学術や仕事等に関するお問い合わせは[**メール**](mailto:japan@brendontsim.com)にてお気軽にご連絡ください。
 
