@@ -1,3 +1,3 @@
 <p align="center">
-    Hi there! I'm Brendon. I write software and like learning new things.
+    Hi there! I'm Brendon. I like writing software and learning new things.
 </p>
